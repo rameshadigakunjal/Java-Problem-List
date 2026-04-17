@@ -46,7 +46,7 @@ public class LetterCombinationsofaPhoneNumber {
         LetterCombinationsofaPhoneNumber solution = new LetterCombinationsofaPhoneNumber();
         String digits = "23";
         List<String> combinations = solution.letterCombinations(digits);
-        System.out.println("Letter Combinations of a Phone Number: " + combinations);
+        System.out.println("Letter Combinations of a Phone Number: " + combinations);   
     }
 }
 
